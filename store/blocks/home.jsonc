@@ -6,8 +6,8 @@
   },
   "rich-text": {//Aquí está en la raíz
     "props": {
-      "text": "*Hello, World!*",
-      "textPosition": "CENTER"
+      "text": "**Hello, World!**",
+      "textPosition": "right"
     }
   }
 }
